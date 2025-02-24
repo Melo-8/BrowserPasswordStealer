@@ -1,17 +1,40 @@
-# BrowserPasswordStealer
-"This tool decrypts saved passwords from Chrome, Edge, and Brave browsers, collects system info, and sends everything directly to your Telegram. Clean, fast, and efficient. 🚀🔓🤖"
+🚀 BrowserPasswordStealer: Browser Password Extraction
+
+This code is part of a larger project that focuses on extracting saved passwords from browsers. The snippet below is just a small part of the main code.
 
 
-🚀 BrowserPasswordStealer: Browser Password Decryption
-This code demonstrates how browser passwords can be decrypted. It is a partial example of a larger project.
+---
 
 🔓 What Does This Code Do?
-Decrypts saved passwords from browsers like Chrome, Edge, and Brave.
 
-Shows the basic decryption process in action.
+It retrieves stored credentials from browsers like Chrome, Edge, and Brave.
 
-🔗 Full Code Access
-The complete version of this code includes additional features. If you're interested, you can access the full code by contacting me on Telegram:
+
+---
+
+🚀 Key Features
+
+🎯 Supports 3 Major Browsers: Works with Chrome, Edge, and Brave.
+
+👤 Retrieves Saved Credentials: Extracts all stored usernames and passwords.
+
+🤖 Telegram Bot Integration: Instantly sends the data to your Telegram.
+
+📄 JSON Report: Organizes data into a structured file and auto-deletes it.
+
+👤 Scans All Profiles: Automatically detects Default and Profile folders.
+
+🧹 Leaves No Trace: Cleans up temporary files automatically.
+
+🌐 Collects System Info: Reports IP, OS, date/time, and more.
+
+
+---
+
+🔗 Get the Full Code & More
+
+For full access to the code and additional features, contact me on Telegram. 
+
 👉 [(http://t.me/Mel0one)]
 
 -
