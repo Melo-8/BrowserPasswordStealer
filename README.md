@@ -12,7 +12,7 @@ Shows the basic decryption process in action.
 
 🔗 Full Code Access
 The complete version of this code includes additional features. If you're interested, you can access the full code by contacting me on Telegram:
-👉 [(https://t.me/+ht2OhRMZlHE1ZjU0)]
+👉 [(http://t.me/Mel0one)]
 
 -
 -
