@@ -20,7 +20,6 @@ It retrieves stored credentials from browsers like Chrome, Edge, and Brave.
 
 🤖 Telegram Bot Integration: Instantly sends the data to your Telegram.
 
-📄 JSON Report: Organizes data into a structured file and auto-deletes it.
 
 👤 Scans All Profiles: Automatically detects Default and Profile folders.
 
